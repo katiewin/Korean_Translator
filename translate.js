@@ -1,6 +1,6 @@
 
 
-const J_1 = require('./dictionary_json/1.json');
+const J_1 = require('./1_test.json');
 const J1_LEXICAL_ENTRY = J_1.LexicalResource.Lexicon.LexicalEntry
 
 const J_2 = require('./dictionary_json/2.json');
@@ -35,7 +35,7 @@ const J10_LEXICAL_ENTRY = J_10.LexicalResource.Lexicon.LexicalEntry
 const J_11 = require('./dictionary_json/11.json');
 const J11_LEXICAL_ENTRY = J_11.LexicalResource.Lexicon.LexicalEntry
 
-const hangul = require('./dictionary_json/Hangul.json');
+const hangul = require('./Hangul.json');
 
 let kWord = '가' //WHAT WE ARE TRANSLATING
 
