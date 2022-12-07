@@ -1,6 +1,6 @@
 
 
-const J_1 = require('./1_test.json');
+const J_1 = require('./dictionary_json/2.json');
 const J1_LEXICAL_ENTRY = J_1.LexicalResource.Lexicon.LexicalEntry
 
 const J_2 = require('./dictionary_json/2.json');
